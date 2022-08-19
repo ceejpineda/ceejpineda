@@ -12,7 +12,7 @@ I'm @ceejpineda. A tryhard programmer who will build something great in time by 
 - 🌱 I’m currently learning
   - 
   - React.js
-  - Sass
+  - Solidity
   - Django
   - How to center a div
  
