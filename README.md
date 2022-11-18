@@ -4,7 +4,7 @@ I'm @ceejpineda. A tryhard programmer who will build something great in time by 
 
 - 👀 I’m interested in: 
   - 
-  - App development, 
+  - Web development, 
   - Blockchain/Web3 
     and a bit of 
   - Game Development.
@@ -12,7 +12,7 @@ I'm @ceejpineda. A tryhard programmer who will build something great in time by 
 - 🌱 I’m currently learning
   - 
   - React.js
-  - Solidity
+  - Node.js
   - Django
   - How to center a div
  
