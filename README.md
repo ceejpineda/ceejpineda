@@ -29,6 +29,7 @@ I'm @ceejpineda. A tryhard programmer who will build something great in time by 
   - Etch-A-Sketch (The Odin Project) [Live Demo](https://ceejpineda.github.io/Etch-A-Sketch/) || [Repository](https://github.com/ceejpineda/Etch-A-Sketch)
   - Rock Paper Scissors (The Odin Project) [Live Demo](https://ceejpineda.github.io/rpsTheOdinProject/) || [Repository](https://github.com/ceejpineda/rpsTheOdinProject)
   - (80% Finished) Tic-Tac-Toe with Minimax Algo AI (The Odin Project) [Live Demo](https://ceejpineda.github.io/Tic-Tac-Toe-AI/) || [Repository](https://github.com/ceejpineda/Tic-Tac-Toe-AI)
+  - (75% Finished) To-Do List (The Odin Project) [Repository](https://github.com/ceejpineda/To-Do-List)
 
 
 <!---
