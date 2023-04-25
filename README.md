@@ -1,6 +1,8 @@
 Hi! What made you go here!?
 
-I'm @ceejpineda. A tryhard programmer who will build something great in time by getting better 1% per day.
+I'm @ceejpineda. A tryhard engineer who will build something great in time by getting better 1% per day.
+
+Language agnostic. I love learning new stuff and putting them on my old stack.
 
 - 👀 I’m interested in: 
   - 
@@ -11,7 +13,9 @@ I'm @ceejpineda. A tryhard programmer who will build something great in time by 
 
 - 🌱 I’m currently learning
   - 
-  - React.js
+  - Next.js
+  - Solidity
+  - Laravel
   - How to center a div
  
 - 💞️ I’m looking to collaborate on
@@ -25,7 +29,7 @@ I'm @ceejpineda. A tryhard programmer who will build something great in time by 
   - Twitter: ceejpineda
 
 - ⚒️ Check out my projects!
-  - 
+  - ==== TO UPDATE, I HAVE TONS OF NEW PROJECTS 🤪 ====
   - Etch-A-Sketch (The Odin Project) [Live Demo](https://ceejpineda.github.io/Etch-A-Sketch/) || [Repository](https://github.com/ceejpineda/Etch-A-Sketch)
   - Rock Paper Scissors (The Odin Project) [Live Demo](https://ceejpineda.github.io/rpsTheOdinProject/) || [Repository](https://github.com/ceejpineda/rpsTheOdinProject)
   - (80% Finished) Tic-Tac-Toe with Minimax Algo AI (The Odin Project) [Live Demo](https://ceejpineda.github.io/Tic-Tac-Toe-AI/) || [Repository](https://github.com/ceejpineda/Tic-Tac-Toe-AI)
