@@ -1,8 +1,8 @@
-Hi! What made you go here!?
+## Hi! What made you go here!?
 
-I'm @ceejpineda. A tryhard engineer who will build something great in time by getting better 1% per day.
+### I'm @ceejpineda. A tryhard engineer who will build something great in time by getting better 1% per day.
 
-Language agnostic. I love learning new stuff and putting them on my old stack.
+### Language agnostic. I love learning new stuff and putting them on my old stack.
 
 - 👀 I’m interested in: 
   - 
