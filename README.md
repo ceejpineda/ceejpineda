@@ -64,11 +64,13 @@
   - Twitter: ceejpineda
 
 - ⚒️ Check out my projects!
-  - ==== TO UPDATE, I HAVE TONS OF NEW PROJECTS 🤪 ====
+  - Daft MVC (An Express.js based MVC Framework made from scratch) [Repository](https://github.com/ceejpineda/Daft-MVC)
+  - Saljuana Ecommerce (Fullstack MVC Codeigniter) [Live Demo](https://www.youtube.com/watch?v=B_ocxSPGXdk) || [Repository](https://github.com/ceejpineda/Saljuana-ECommerce)
+  - Duck (A Company management App RubyOnRails + Tailwind) [Live Demo](https://youtu.be/wEby6ISwd3I) || [Repository](https://github.com/ceejpineda/duck-v3)
+  - 1942 Space (A Socket.io realtime multiplayer game) [Live Demo](https://www.youtube.com/watch?v=KsYXfoGv4QY) || [Repository](https://github.com/ceejpineda/V88-1942)
+  - Wingcraft Models (A live Website) [Live Demo](https://www.wingcraftmodels.com)
   - Etch-A-Sketch (The Odin Project) [Live Demo](https://ceejpineda.github.io/Etch-A-Sketch/) || [Repository](https://github.com/ceejpineda/Etch-A-Sketch)
-  - Rock Paper Scissors (The Odin Project) [Live Demo](https://ceejpineda.github.io/rpsTheOdinProject/) || [Repository](https://github.com/ceejpineda/rpsTheOdinProject)
   - (80% Finished) Tic-Tac-Toe with Minimax Algo AI (The Odin Project) [Live Demo](https://ceejpineda.github.io/Tic-Tac-Toe-AI/) || [Repository](https://github.com/ceejpineda/Tic-Tac-Toe-AI)
-  - (75% Finished) To-Do List (The Odin Project) [Repository](https://github.com/ceejpineda/To-Do-List)
 
 
 <!---
