@@ -4,12 +4,6 @@
 
 ### Language agnostic. I love learning new stuff and putting them on my stack. Demonstrates discipline and consistency in approach to development.
 
-- 👀 I’m interested in: 
-  - 
-  - Web development, 
-  - Blockchain/Web3 
-    and a bit of 
-  - Game Development.
 
 - 🛠 Current Tech Stack:
   --- 
