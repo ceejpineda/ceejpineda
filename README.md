@@ -1,9 +1,6 @@
 ## Hi! What made you go here!?
 
-### I'm @ceejpineda. A pragmatic engineer who will build something great in time by getting better 1% per day.
-
-### Language agnostic. I love learning new stuff and putting them on my stack. Demonstrates discipline and consistency in approach to development.
-
+### I'm @ceejpineda. A back-end engineer. 
 
 - 🛠 Current Tech Stack:
   --- 
