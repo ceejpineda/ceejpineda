@@ -47,7 +47,6 @@
   - 
   - Next.js
   - Solidity
-  - Laravel
   - How to center a div
  
 - 💞️ I’m looking to collaborate on
