@@ -1,6 +1,6 @@
 ## Hi! What made you go here!?
 
-### I'm @ceejpineda. A back-end engineer. Enjoys software architecture as much as I love building software.
+### I'm @ceejpineda. A Full-stack engineer. Enjoys software architecture as much as I love building software.
 
 - 🛠 Current Tech Stack:
   --- 
