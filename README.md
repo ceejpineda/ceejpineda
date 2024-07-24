@@ -42,18 +42,6 @@
     ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-- 🌱 I’m currently learning
-  - 
-  - Next.js
-  - Solidity
-  - How to center a div
- 
-- 💞️ I’m looking to collaborate on
-  -
-  - Anything! I'm willing to help on the thing I can be a use of! Contact me. 
-
-
 - 📫 How to reach me
   - 
   - Gmail: ceejpineda20@gmail.com
