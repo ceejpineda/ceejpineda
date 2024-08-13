@@ -1,6 +1,7 @@
 ## Hi! What made you go here!?
 
-### I'm @ceejpineda. A Full-stack engineer. Enjoys software architecture as much as I love building software.
+### I'm an engineer with a passion for exploring and tinkering with all kinds of software—from microcontrollers to the complexities of large-scale servers.
+### Currently employed as a Full-stack Web Developer.
 
 - 🛠 Current Tech Stack:
   --- 
